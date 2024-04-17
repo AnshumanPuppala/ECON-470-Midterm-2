@@ -1,0 +1,101 @@
+Country,Year,PolicyChange,OutcomeVariable
+Country A,2003,No Policy Change,76.9064764775287
+Country B,2013,Policy Implemented,86.9498549351941
+Country E,2006,No Policy Change,91.91859210624382
+Country C,2010,Policy Implemented,97.49057538095327
+Country E,2007,Policy Implemented,96.58925028583569
+Country E,2011,Policy Implemented,122.41298598770975
+Country E,2012,Policy Implemented,89.59526392040942
+Country B,2020,No Policy Change,103.72501180657856
+Country A,2007,No Policy Change,102.37543938214371
+Country E,2006,Policy Implemented,112.08645570684806
+Country D,2006,Policy Implemented,122.32825010130709
+Country B,2010,No Policy Change,100.88417671065739
+Country C,2019,No Policy Change,88.0591183167606
+Country C,2012,Policy Implemented,94.02351350385563
+Country D,2011,No Policy Change,130.68101418270197
+Country A,2012,No Policy Change,99.28136818198712
+Country D,2005,No Policy Change,102.94028196990702
+Country E,2021,Policy Implemented,98.39391607362612
+Country E,2009,No Policy Change,103.89861703168839
+Country C,2016,Policy Implemented,109.22911991750347
+Country B,2018,Policy Implemented,95.22086669104624
+Country A,2022,No Policy Change,101.25026081722316
+Country C,2011,Policy Implemented,94.96280638277256
+Country B,2019,Policy Implemented,107.92203428531904
+Country B,2003,Policy Implemented,108.08449397216819
+Country A,2022,Policy Implemented,109.51088368194702
+Country E,2008,Policy Implemented,104.00981691241103
+Country B,2013,Policy Implemented,101.87989449648718
+Country C,2014,Policy Implemented,94.05154768940352
+Country E,2020,No Policy Change,71.93343005518548
+Country C,2015,No Policy Change,109.45793887278566
+Country A,2000,Policy Implemented,105.52305424794876
+Country D,2017,Policy Implemented,97.49983770069106
+Country B,2022,Policy Implemented,90.21597058695697
+Country E,2001,Policy Implemented,103.31845230667548
+Country A,2022,No Policy Change,96.82199601923875
+Country B,2012,No Policy Change,107.03876852691799
+Country E,2007,No Policy Change,100.30217600000174
+Country E,2022,Policy Implemented,97.1000458556896
+Country D,2005,Policy Implemented,135.9626070057795
+Country E,2016,Policy Implemented,112.94987933170144
+Country D,2014,Policy Implemented,84.98179659013697
+Country D,2012,No Policy Change,67.98851767695493
+Country C,2001,Policy Implemented,110.02007131812385
+Country B,2010,No Policy Change,94.49846832529444
+Country C,2000,No Policy Change,99.49139983783013
+Country D,2001,No Policy Change,117.31602649052539
+Country A,2013,Policy Implemented,95.76183718589816
+Country A,2019,Policy Implemented,106.11359664048412
+Country D,2020,No Policy Change,80.22196750990645
+Country A,2012,Policy Implemented,121.20633032297152
+Country E,2009,No Policy Change,132.12177400657117
+Country C,2012,Policy Implemented,87.87179097373443
+Country A,2005,No Policy Change,99.1769535454899
+Country C,2021,Policy Implemented,111.30842891324143
+Country C,2015,Policy Implemented,105.20109486510249
+Country C,2015,Policy Implemented,89.77991914412951
+Country A,2006,No Policy Change,123.31445532852428
+Country D,2008,No Policy Change,81.70527045778056
+Country D,2002,No Policy Change,96.31744184784456
+Country B,2006,No Policy Change,86.34345783016228
+Country D,2017,Policy Implemented,91.58926362006044
+Country B,2005,Policy Implemented,108.4513211590745
+Country D,2000,Policy Implemented,106.53680274554442
+Country B,2008,No Policy Change,89.39710552926908
+Country E,2013,No Policy Change,103.08730697452627
+Country D,2009,Policy Implemented,124.08884757495443
+Country D,2003,No Policy Change,90.89433043363312
+Country D,2003,Policy Implemented,116.02079505290192
+Country C,2021,No Policy Change,102.57940530094318
+Country E,2000,No Policy Change,95.43785092111138
+Country B,2010,No Policy Change,87.5767254466795
+Country B,2016,Policy Implemented,119.16378758625247
+Country E,2000,No Policy Change,90.02959321691236
+Country A,2005,No Policy Change,91.17451452351865
+Country C,2013,No Policy Change,134.51968177790604
+Country D,2017,No Policy Change,107.07001818864214
+Country D,2021,No Policy Change,103.03311869248003
+Country B,2006,No Policy Change,74.96009108277273
+Country B,2000,No Policy Change,105.9160002956996
+Country D,2016,Policy Implemented,92.7120317836108
+Country C,2001,No Policy Change,126.36487479842236
+Country C,2011,Policy Implemented,83.37880114046493
+Country D,2005,No Policy Change,107.45587600222638
+Country B,2015,Policy Implemented,117.33906411242724
+Country C,2019,No Policy Change,92.725611538961
+Country B,2010,Policy Implemented,115.70583203639465
+Country B,2000,Policy Implemented,100.75556618397634
+Country D,2005,Policy Implemented,92.01263021451527
+Country E,2002,No Policy Change,88.16730139390657
+Country E,2017,No Policy Change,103.63428635785996
+Country B,2021,No Policy Change,92.01546675017731
+Country E,2010,No Policy Change,80.5142561941504
+Country B,2002,No Policy Change,106.11757586065251
+Country A,2013,No Policy Change,116.61566440655976
+Country C,2000,Policy Implemented,101.84647893179898
+Country C,2015,No Policy Change,118.59326318593394
+Country D,2002,No Policy Change,113.9429905390075
+Country D,2000,Policy Implemented,87.3561998020053
+Country C,2011,No Policy Change,101.11719486487691
